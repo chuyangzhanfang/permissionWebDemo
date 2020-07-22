@@ -16,7 +16,6 @@ import java.util.List;
 
 /**
  * 部门管理
- *
  */
 @RestController
 @RequestMapping("/sys/dept")

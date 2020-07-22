@@ -38,7 +38,7 @@
             <property name="enableSubPackages" value="true"/>
         </javaClientGenerator>
         <!--生成全部表tableName设为%-->
-        <table tableName="sys_user">
+        <table tableName="sys_log">
             <generatedKey column="id" sqlStatement="MySql" identity="true"/>
         </table>
     </context>
